@@ -12,7 +12,7 @@ Quote.Trade is a network-agnostic, EVM-compatible DEX that allows users to trade
 
 Whether you're a retail trader, a high-frequency algorithmic trader, or a developer building your own AI tools, Quote.Trade provides the infrastructure and tools you need — without charging a dime in trading fees.
 
-You can explore the platform directly at {Quote.Trade}(https://quote.trade).
+You can explore the platform directly at [Quote.Trad](https://quote.trade).
 
 ## AI, Automation, and API Access
 
