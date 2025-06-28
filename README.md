@@ -1,6 +1,6 @@
 # Quote.Trade-Review-2025-The-Next-Evolution-of-Decentralized-Crypto-Trading
 
-# Quote.Trade Review - Smarter, Faster, and More Secure Trading for 2025
+## Quote.Trade Review - Smarter, Faster, and More Secure Trading for 2025
 
 ## Introduction to Quote.Trade
 
